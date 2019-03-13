@@ -9,8 +9,8 @@ In this probability project we use data bases of Google Play and Apple Store to 
 ## How to use:
 
 * Download the data sets:
- * [Google Play data set](https://www.kaggle.com/lava18/google-play-store-apps/home)
- * [Apple Store data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home)
+ ...* [Google Play data set](https://www.kaggle.com/lava18/google-play-store-apps/home)
+ ...* [Apple Store data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home)
 
 * Upload `.ipynb` to Google Drive and open using Colaboratory
 
